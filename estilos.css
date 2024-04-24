@@ -1,0 +1,51 @@
+/* Estilo para el cuerpo de la página */
+body {
+    color: #00F;
+    /* Color del texto en azul */
+    background-color: #CFC;
+    /* Color de fondo verde claro */
+    font-family: Georgia, Cambria, serif;
+    /* Familia de fuentes para el texto principal */
+    font-size: 16px;
+    /* Tamaño de fuente para el texto principal */
+}
+
+/* Estilo para el encabezado de nivel 1 */
+h1 {
+    color: #F00;
+    /* Color del texto del encabezado en rojo */
+    font-family: Verdana, Calibri, sans-serif;
+    /* Familia de fuentes para el encabezado */
+    font-size: 32px;
+    /* Tamaño de fuente para el encabezado */
+}
+
+/* Estilo para el encabezado de nivel 2 */
+h2 {
+    color: #A00;
+    /* Color del texto del encabezado en rojo oscuro */
+    font-family: Verdana, Calibri, sans-serif;
+    /* Familia de fuentes para el encabezado */
+    font-size: 24px;
+    /* Tamaño de fuente para el encabezado */
+}
+
+/* Estilo para los elementos <span> */
+span {
+    color: #060;
+    /* Color del texto dentro de los elementos <span> en verde oscuro */
+}
+
+/* Estilo para los elementos <strong> */
+strong {
+    font-size: 20px;
+    /* Tamaño de fuente para los elementos <strong> */
+}
+
+/* Estilo para los elementos <em> */
+em {
+    color: #FFF;
+    /* Color del texto dentro de los elementos <em> en blanco */
+    background-color: #000;
+    /* Color de fondo del texto dentro de los elementos <em> en negro */
+}
